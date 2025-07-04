@@ -3,7 +3,7 @@ Fresh Alert is a smart kitchen assistant application designed to help families a
 
 Features
 Multi-Profile Support
-Create and manage profiles for multiple family members (e.g, Jane, Jack, Juliet).
+Create and manage profiles for multiple family members (e.g - Jane, Jack, Juliet).
 
 Individualized settings such as dietary restrictions, age, and preferences.
 
@@ -13,12 +13,12 @@ Generate a grocery list based on selected recipes.
 Confirm and adjust the grocery list manually.
 
 Smart Recipe Suggestions
-Choose recipes by cuisine (Italian, Indian, Korean, etc.) and main ingredient (Tofu, Chicken, Fish, etc.).
+Choose recipes by cuisine (Italian, Indian, Korean, etc.) and main ingredient (Tofu, Chicken, Fish, Chicken Tikka Masala).
 Filter recipes by calorie content: Highest to Lowest / Lowest to Highest.
 View detailed recipe nutrition per serving.
 
 Inventory Management
-View real-time inventory (e.g., Eggs: 12, Bread: 2).
+View real-time inventory (e.g - Eggs: 12, Bread: 2).
 Auto-match inventory with recipes to suggest what can be made right now.
 
 Weather Integration
