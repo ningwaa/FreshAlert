@@ -42,9 +42,9 @@ Health-Conscious Users: Choose meals based on calorie or nutritional data.
 Eco-Friendly Shopping: Reduce food waste by suggesting recipes from existing inventory.
 
 Current Status
--UI Design (Prototype)
--Development (In Progress)
--Deployment
+UI Design (Prototype)
+Development (In Progress)
+Deployment (Not Started)
 
 Contributors
 Ainsley Smith,
