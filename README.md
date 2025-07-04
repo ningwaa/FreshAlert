@@ -1,4 +1,4 @@
-Fresh Alert
+Fresh Alert:
 Fresh Alert is a smart kitchen assistant application designed to help families and individuals manage their grocery inventory, suggest recipes based on available ingredients, track dietary intake, and plan meals efficiently. The app incorporates profile-based customization, calorie tracking, and automatic grocery list generation based on selected meals and user preferences.
 
 Features
