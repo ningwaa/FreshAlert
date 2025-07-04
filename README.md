@@ -3,7 +3,7 @@ Fresh Alert is a smart kitchen assistant application designed to help families a
 
 Features
 Multi-Profile Support
-Create and manage profiles for multiple family members (e.g., Jane, Jack, Juliet).
+Create and manage profiles for multiple family members (e.g, Jane, Jack, Juliet).
 
 Individualized settings such as dietary restrictions, age, and preferences.
 
@@ -47,10 +47,10 @@ Current Status
 -Deployment
 
 Contributors
-Ainsley Smith.
-Dylan Higgins.
-Joshua Zolla.
-Eshaan Shah.
+Ainsley Smith,
+Dylan Higgins,
+Joshua Zolla,
+Eshaan Shah,
 Ningwa Limbu
 
 
