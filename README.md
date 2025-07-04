@@ -47,10 +47,10 @@ Current Status
 -Deployment
 
 Contributors
-Ainsley Smith
-Dylan Higgins
-Joshua Zolla
-Eshaan Shah
+Ainsley Smith.
+Dylan Higgins.
+Joshua Zolla.
+Eshaan Shah.
 Ningwa Limbu
 
 
